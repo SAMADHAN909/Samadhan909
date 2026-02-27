@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**SAMADHAN909/Samadhan909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 💫 About Me:
+# 💫 About Me:
 📊 Data Analyst | SQL (PostgreSQL) | Power BI | Data Analytics<br>🚀 Data Analyst with strong hands-on experience in SQL (PostgreSQL), Power BI, and real-world KPI-driven analytics. 🔍 I specialize in transforming raw data into meaningful insights, business-ready reports, and interactive dashboards. I have worked extensively with large datasets (10K–100K+ rows) and solved real freelancer-style project scenarios, not just theoretical problems. 💡 What I do best: • 🧠 Write clean, optimized, and accurate PostgreSQL queries<br>• 📈 Build real-world KPI-based reports using SQL<br>• 📊 Design interactive Power BI dashboards (cards, charts, slicers) • 🧹 Perform data cleaning, analysis, and visualization<br>• 🎯 Convert business questions into actionable data insights<br>🏗️ Built 1000+ SQL queries, 1600+ unique KPI-style SQL problems, and multiple end-to-end analytics projects based on real business use cases. 🎯 Focused on building a strong Data Analyst portfolio, solving real-world data problems, and growing as a high-impact Data Analyst.<br><br>📌 Tools & Skills: PostgreSQL | SQL | Power BI | Excel | Data Analysis | KPI Reporting
 
 
@@ -33,10 +25,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=Samadhan909&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
